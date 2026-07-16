@@ -1,0 +1,8 @@
+{
+  "RepairItem": "gtceu:repair_kit_wrought_iron",
+  "MaxDurability": 1000,
+  "Jam": false,
+  "RepairCost": 1,
+  "XpCost": 0,
+  "Stats": []
+}
